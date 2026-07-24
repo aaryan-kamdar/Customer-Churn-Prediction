@@ -35,8 +35,8 @@ customer-churn-prediction/
 │   ├── train.py
 │   └── predict.py
 ├── models/
-│   ├── churn_pipeline.pkl
-│   └── churn_threshold.pkl
+    ├── churn_pipeline.pkl
+    └── churn_threshold.pkl
 ```
 
 ## How to Reproduce
